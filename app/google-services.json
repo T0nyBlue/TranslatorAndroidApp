@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19409412110",
+    "project_id": "translator-app-ea48a",
+    "storage_bucket": "translator-app-ea48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19409412110:android:1a09a7b12e4c8be723dc5f",
+        "android_client_info": {
+          "package_name": "translator.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19409412110-kdtek9ksrj6ibkvkk8ce7gg0089dplfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArEHFnuWMN4kyYUBMj5ia4hFlVc0f3f4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19409412110-kdtek9ksrj6ibkvkk8ce7gg0089dplfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
